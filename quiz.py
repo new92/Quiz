@@ -1,4 +1,11 @@
+#Imports
+
 import time
+
+#End of imports 
+
+#Program
+
 name=input("Please enter your name: ")
 print("Welcome ",name," to this quiz game !")
 chapters=["sports","science","animals","geography","food","TV","Music"]
@@ -1164,4 +1171,4 @@ else:
     time.sleep(2)
     print("Please run again the program and type a valid option in order to start quiz")
     time.sleep(4)
-#The end
+#End of the program 
