@@ -8,7 +8,7 @@ import time
 
 name=input("Please enter your name: ")
 print("Welcome ",name," to this quiz game !")
-chapters=["sports","science","animals","geography","food","TV","Music"]
+chapters=["Sports","Science","Animals","Geography","food","TV","Music"]
 codes=["1010","1020","1030","1040","1050","1060","1070"]
 print("Please pick a chapter: ")
 for i in range(len(chapters)):
